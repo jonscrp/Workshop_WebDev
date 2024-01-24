@@ -12,8 +12,10 @@ A client is a navigator(software) that sends request to a server.
 
 **HTML tags**: A way of structuring the contents of file using tags( <p>).
 
-[NextJS Introduction}(https://nextjs.org/learn/dashboard-app) 
+Node JS
 
-
-
-
+Get/Post methods
+Streams
+Routing 
+EventEmitters
+request and response objects
